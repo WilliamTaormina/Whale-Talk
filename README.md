@@ -8,7 +8,7 @@ Like Finding Nemo, just a little bit less cute.
 
 #### For Loops:
 
-* &for& loops let us loop a block of code, a know number of times.
+* **for** loops let us loop a block of code, a know number of times.
 
 Example:
 
@@ -20,8 +20,8 @@ for (let i=0;i<gitHubRepos.length;i++){
 }
 ```
 
-* the first part of the _for_ loop is the \_
+* the first part of the **for** loop is the
 
 #### While Loops:
 
-* _while_ loops let us loop a block of code, while a certain condition is true.
+* **while** loops let us loop a block of code, while a certain condition is true.
