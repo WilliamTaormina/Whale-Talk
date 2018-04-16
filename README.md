@@ -53,4 +53,12 @@ for (let i=0;i<myGitHubRepos.length;i++){
 
 ### While Loops:
 
-* **while** loops let us loop a block of code, while a certain condition is true.
+* **while loops** let us loop a block of code, while a certain condition is true.
+* **While Loops** work better when the number of loop iterations is randomized or variable.
+* the Syntax for a **While Loop** is shown below:
+
+```
+while(condition-is-true){
+ do this operation;
+}
+```
