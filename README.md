@@ -8,7 +8,7 @@ Like Finding Nemo, just a little bit less cute.
 
 #### For Loops:
 
-* _for_ loops let us loop a block of code, a know number of times.
+* &for& loops let us loop a block of code, a know number of times.
 
 Example:
 
@@ -19,6 +19,8 @@ for (let i=0;i<gitHubRepos.length;i++){
  console.log(gitHubRepos[i]);
 }
 ```
+
+* the first part of the _for_ loop is the \_
 
 #### While Loops:
 
