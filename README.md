@@ -1,2 +1,2 @@
 # Whale-Talk
-Like, Finding Dory/
+Like Finding Nemo, just a little bit less cute.
