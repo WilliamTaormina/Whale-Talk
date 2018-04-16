@@ -26,7 +26,7 @@ for (let i=0;i<myGitHubRepos.length;i++){
 * **{console.log(gitHubRepos[i]);}** the last part of the loop is the _code block_ and will execute until the program reaches the stop condition.
 
 * How might we make a **for loop** run backwards?
-* * We set the start condition equal to the length of the array, minus 1.
+  * We set the start condition equal to the length of the array, minus 1.
 
 #### Nested For Loops
 
