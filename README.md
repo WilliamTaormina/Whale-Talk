@@ -1,6 +1,10 @@
 # Whale-Talk: Loops, Loops, all about Loops
 
-Like Finding Nemo, just a little bit less cute.
+Whales can only speak in vowels, and they talk really loud. (Like in APP CAPS). What would a whale sound like if it was trying to read you the Odyssey, By Homer Book 1, paragraphs 1 and 2?
+
+Find out! (Or input your own passage!)
+
+EEEEOUUOOEEAAAA !!!
 
 ## What I learned:
 
@@ -62,3 +66,24 @@ while(condition-is-true){
  do this operation;
 }
 ```
+
+Here is an example while loop:
+
+```
+let cards = ['Diamond', 'Spade', 'Heart', 'Club'];
+
+let currentCard = 'Heart';
+
+while (currentCard != 'Spade'){
+ console.log(currentCard)
+  currentCard = cards[Math.floor(Math.random()*4)];
+}
+
+console.log('It looks like the program found a Spade!')
+```
+
+### BEWARE: infinite looooooooooooooooooooooops:
+
+* an **infiinte loop** occures when a loop begins, and does not have a stop condition in place, or met. Therefore, the loop continues on forever, and will crash your machine.
+* infine loops in **for loops** are less common because the start, stop, and iterating conditions are explicitly set.
+* Infinite loops are more common in while loops, because if the conditional statement is set to and equals 'true', and does not have a break, the loop with go on forever.
